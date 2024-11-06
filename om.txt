@@ -1,0 +1,14 @@
+Lav mappe - fx reactintro - åbn mappen i VS Code
+npm create vite@latest . 
+    vælg at beholde alle filer/mapper
+    vælg React
+    vælg JavaScript
+
+npm install
+
+npm run dev -- --open
+
+
+EKSTRA
+npm i bootstrap
+npm i sass
